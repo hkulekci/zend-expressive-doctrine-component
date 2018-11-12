@@ -1,5 +1,6 @@
 {
     "name": "hkulekci/doctrine-component",
+    "description": "Doctrine COmponent For Zend Expressive Application",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -17,5 +18,5 @@
         "psr-4": {
             "DoctrineComponent\\": "src/"
         }
-    },
+    }
 }
