@@ -1,0 +1,21 @@
+{
+    "name": "hkulekci/doctrine-component",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Haydar KULEKCI",
+            "email": "haydarkulekci@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1",
+        "doctrine/orm": "2.7.x-dev",
+        "doctrine/doctrine-module": "^2.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "DoctrineComponent\\": "src/"
+        }
+    },
+}
